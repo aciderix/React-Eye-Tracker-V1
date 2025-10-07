@@ -1,6 +1,6 @@
 # Advanced Gaze Tracking with MediaPipe
 
-![App Screenshot](./screenshot.jpeg)
+![App Screenshot](./screenshot.jpg)
 
 > ⚠️ **Project Status:** This project is currently under active development.  
 > I’m working on improving head pose compensation and fixing **parallax issues** when the camera is positioned above or below the screen.
