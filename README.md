@@ -2,8 +2,7 @@
 
 This is a sophisticated web application that transforms your webcam into a real-time eye tracker. Using advanced facial landmark detection, it allows you to control a cursor on the screen simply by moving your eyes. The project serves as a powerful demonstration of what's possible with modern computer vision in the browser.
 
-![Demo GIF of gaze tracking]
-*(Here you could insert a GIF showing the calibration process and the gaze follower in action)*
+
 
 ---
 
