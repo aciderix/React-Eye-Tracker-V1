@@ -1,0 +1,7 @@
+{
+  "name": "Copy of React Face Landmarker",
+  "description": "An advanced web application that uses MediaPipe's Face Landmarker to detect facial landmarks and expressions in real-time from images and live webcam feeds. Visualize detailed face meshes and blendshapes with a sleek, modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
